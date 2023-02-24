@@ -38,7 +38,9 @@ Here are some ideas to get you started:
      alt="VS Code" width="50" height="50" style="vertical-align:top; margin:4px"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GitHub" width="50" 
        height="50" style="vertical-align:top; margin:4px"/>
-PostMan</p>
+  <img src="https://user-images.githubusercontent.com/76052991/221193365-11139e8f-85a8-4e18-aa7e-ce6ad0f9e5ad.png" alt="GitHub" width="50" 
+       height="50" style="vertical-align:top; margin:4px"/>
+</p>
 
 ### More about Me!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayanta-hub&theme=tokyonight&show_icons=true)](https://github.com/jayanta-hub/github-readme-stats)  ![Jayanta's github stats](https://github-readme-stats.vercel.app/api?username=jayanta-hub&theme=tokyonight&show_icons=true)
