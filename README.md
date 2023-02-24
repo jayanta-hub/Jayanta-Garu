@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 ### Tools Familiar with
 - `Github`, `Bitbucket`, `Visual Studio Code`, `Postman`
 
-
+### More about Me!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayanta-hub&theme=tokyonight&show_icons=true)](https://github.com/jayanta-hub/github-readme-stats)  ![Jayanta's github stats](https://github-readme-stats.vercel.app/api?username=jayanta-hub&theme=tokyonight&show_icons=true)
 
