@@ -1,4 +1,4 @@
-# Hi, I'm Jayanta! 😀
+<h1 align="center">Hi, I'm Jayanta! 😀</h1>
 
 Here are some ideas to get you started:
 
