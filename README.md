@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my `NPM Package` `https://www.npmjs.com/package/rn-otp-inputs` upgradation
+- 🔭 I’m currently working on my `NPM Package` [rn-otp-inputs](https://www.npmjs.com/package/rn-otp-inputs) upgradation
 - 🌱 I’m currently learning Node js
 - 💬 Ask me about React, React-Native, Javascript and front end development
 
