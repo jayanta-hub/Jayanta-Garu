@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my `NPM Package` [rn-draggable-modal](https://www.npmjs.com/package/rn-draggable-modal) && [rn-otp-inputs](https://www.npmjs.com/package/rn-otp-inputs) upgradation
+- 🔭 I’m currently working on my `NPM Package` [rn-draggable-modal](https://www.npmjs.com/package/rn-draggable-modal) & [rn-otp-inputs](https://www.npmjs.com/package/rn-otp-inputs) upgradation
 - 🌱 I’m currently learning Node js and Nestjs.
 - 💬 Ask me about React, React-Native, Javascript and front end development
 
