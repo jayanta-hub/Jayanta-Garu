@@ -6,6 +6,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Node js , Nextjs and Nestjs.
 - 💬 Ask me about React, React-Native, Javascript and front end development
 
+- Portfolio- https://portfolio-sooty-eight-99.vercel.app/
+- 
 ### How to reach me: 
 - E-mail: `jayanta.garu@gmail.com`
 - [LinkedIn](https://www.linkedin.com/in/jayanta-garu-69628a13a)
